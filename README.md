@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carolpitta
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on C
 - 📫 How to reach me: pitta.carolina@hotmail.com
 - 😄 Pronouns: She/Her
 
